@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @koopercelley
+👋 Hi, I’m @koopercelley
+
 I am a current student at the University of Texas at Dallas (UTD), as a Computer Engineering Major. 
 This account is where I will post the projects I am either currently or have worked on before.
 There are some programming projects in Java and C++, as well as some folders that will have links
